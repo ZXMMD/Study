@@ -1,6 +1,6 @@
 ## PSNR
 
-+ `PSNR.m`用来对一幅图像进行高斯滤波
++ `PSNR.m`用来计算两幅图像的psnr
 
 + `PSNR`是`Peak Signal to Noise Ratio`的缩写，即峰值信噪比，是一种评价图像的客观标准，它具有局限性。`PSNR`值越大，就代表失真越少。
 
