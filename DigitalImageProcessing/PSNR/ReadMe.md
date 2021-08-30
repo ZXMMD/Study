@@ -40,4 +40,4 @@
 
 ![中值滤波](image/PSNR2.PNG)
 
-![原图与加噪后](image/PSNR3.PNG)
+![matlab自带中值滤波](image/PSNR3.PNG)
